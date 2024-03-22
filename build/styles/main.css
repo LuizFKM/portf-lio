@@ -8,7 +8,7 @@
   font-family: play, sans-serif;
 }
 body {
-  background-color: #ffb142;
+  background-color: #cc8e35;
   color: #ffffff;
 }
 li {
@@ -76,7 +76,7 @@ header .profile-avatar {
 }
 .projects-list-item a {
   text-decoration: none;
-  background-color: #ff5252;
+  background-color: #7c1717;
   display: block;
   padding: 16px 20px;
   margin-bottom: 5px;
@@ -85,10 +85,10 @@ header .profile-avatar {
   font-weight: bold;
   color: #ffffff;
   border-radius: 30px;
-  border: 2px solid #ff5252;
+  border: 2px solid #7c1717;
   transition: all ease 0.5s;
 }
 .projects-list-item a:hover {
-  color: #ff5252;
+  color: #7c1717;
   background-color: transparent;
 }
